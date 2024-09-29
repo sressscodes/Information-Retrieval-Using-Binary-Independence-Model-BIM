@@ -1,0 +1,200 @@
+“luxury hotel Nepal”,Temple Tree Resort & Spa.txt,0
+“luxury hotel Nepal”,The Dwarika's Hotel.txt,1
+“luxury hotel Nepal”,Gokarna Forest Resort.txt,0
+“luxury hotel Nepal”,Hyatt Regency Kathmandu.txt,1
+“luxury hotel Nepal”,Tiger Tops Tharu Lodge.txt,0
+“luxury hotel Nepal”,Hotel yak and Yeti.txt,1
+“luxury hotel Nepal”,Shangri-La Hotel.txt,1
+“luxury hotel Nepal”,Barahi Jungle Lodge.txt,1
+“luxury hotel Nepal”,Rupakot Resort Pvt. Ltd..txt,1
+“luxury hotel Nepal”,Crowne Plaza Hotel Soaltee.txt,1
+“luxury hotel Nepal”,Hotel Roadhouse.txt,1
+“luxury hotel Nepal”,Hotel Lake Shore.txt,0
+“luxury hotel Nepal”,Hotel Grand Holiday.txt,1
+“luxury hotel Nepal”,Hotel Fewa Dream.txt,0
+“luxury hotel Nepal”,Hotel Middle Path & Spa.txt,1
+“luxury hotel Nepal”,Flying Yak Kathmandu.txt,0
+“luxury hotel Nepal”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“luxury hotel Nepal”,The Soaltee Kathmandu.txt,1
+“luxury hotel Nepal”,The Dwarika’s Hotel.txt,1
+“luxury hotel Nepal”,Sunshine Resort Pokhara.txt,0
+“family-friendly stay”,Temple Tree Resort & Spa.txt,0
+“family-friendly stay”,The Dwarika's Hotel.txt,0
+“family-friendly stay”,Gokarna Forest Resort.txt,0
+“family-friendly stay”,Hyatt Regency Kathmandu.txt,0
+“family-friendly stay”,Tiger Tops Tharu Lodge.txt,0
+“family-friendly stay”,Hotel yak and Yeti.txt,0
+“family-friendly stay”,Shangri-La Hotel.txt,1
+“family-friendly stay”,Barahi Jungle Lodge.txt,0
+“family-friendly stay”,Rupakot Resort Pvt. Ltd..txt,1
+“family-friendly stay”,Crowne Plaza Hotel Soaltee.txt,0
+“family-friendly stay”,Hotel Roadhouse.txt,0
+“family-friendly stay”,Hotel Lake Shore.txt,0
+“family-friendly stay”,Hotel Grand Holiday.txt,0
+“family-friendly stay”,Hotel Fewa Dream.txt,0
+“family-friendly stay”,Hotel Middle Path & Spa.txt,0
+“family-friendly stay”,Flying Yak Kathmandu.txt,1
+“family-friendly stay”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“family-friendly stay”,The Soaltee Kathmandu.txt,1
+“family-friendly stay”,The Dwarika’s Hotel.txt,1
+“family-friendly stay”,Sunshine Resort Pokhara.txt,1
+“budget hotel Kathmandu”,Temple Tree Resort & Spa.txt,1
+“budget hotel Kathmandu”,The Dwarika's Hotel.txt,1
+“budget hotel Kathmandu”,Gokarna Forest Resort.txt,0
+“budget hotel Kathmandu”,Hyatt Regency Kathmandu.txt,0
+“budget hotel Kathmandu”,Tiger Tops Tharu Lodge.txt,0
+“budget hotel Kathmandu”,Hotel yak and Yeti.txt,0
+“budget hotel Kathmandu”,Shangri-La Hotel.txt,0
+“budget hotel Kathmandu”,Barahi Jungle Lodge.txt,0
+“budget hotel Kathmandu”,Rupakot Resort Pvt. Ltd..txt,1
+“budget hotel Kathmandu”,Crowne Plaza Hotel Soaltee.txt,0
+“budget hotel Kathmandu”,Hotel Roadhouse.txt,1
+“budget hotel Kathmandu”,Hotel Lake Shore.txt,0
+“budget hotel Kathmandu”,Hotel Grand Holiday.txt,1
+“budget hotel Kathmandu”,Hotel Fewa Dream.txt,0
+“budget hotel Kathmandu”,Hotel Middle Path & Spa.txt,0
+“budget hotel Kathmandu”,Flying Yak Kathmandu.txt,1
+“budget hotel Kathmandu”,Baber Mahal Vilas – The Heritage Hotel.txt,1
+“budget hotel Kathmandu”,The Soaltee Kathmandu.txt,1
+“budget hotel Kathmandu”,The Dwarika’s Hotel.txt,1
+“budget hotel Kathmandu”,Sunshine Resort Pokhara.txt,1
+“mountain view accommodation”,Temple Tree Resort & Spa.txt,1
+“mountain view accommodation”,The Dwarika's Hotel.txt,0
+“mountain view accommodation”,Gokarna Forest Resort.txt,0
+“mountain view accommodation”,Hyatt Regency Kathmandu.txt,1
+“mountain view accommodation”,Tiger Tops Tharu Lodge.txt,1
+“mountain view accommodation”,Hotel yak and Yeti.txt,0
+“mountain view accommodation”,Shangri-La Hotel.txt,0
+“mountain view accommodation”,Barahi Jungle Lodge.txt,1
+“mountain view accommodation”,Rupakot Resort Pvt. Ltd..txt,1
+“mountain view accommodation”,Crowne Plaza Hotel Soaltee.txt,1
+“mountain view accommodation”,Hotel Roadhouse.txt,1
+“mountain view accommodation”,Hotel Lake Shore.txt,0
+“mountain view accommodation”,Hotel Grand Holiday.txt,1
+“mountain view accommodation”,Hotel Fewa Dream.txt,0
+“mountain view accommodation”,Hotel Middle Path & Spa.txt,1
+“mountain view accommodation”,Flying Yak Kathmandu.txt,1
+“mountain view accommodation”,Baber Mahal Vilas – The Heritage Hotel.txt,1
+“mountain view accommodation”,The Soaltee Kathmandu.txt,0
+“mountain view accommodation”,The Dwarika’s Hotel.txt,0
+“mountain view accommodation”,Sunshine Resort Pokhara.txt,0
+“hotel rooftop restaurant”,Temple Tree Resort & Spa.txt,1
+“hotel rooftop restaurant”,The Dwarika's Hotel.txt,1
+“hotel rooftop restaurant”,Gokarna Forest Resort.txt,0
+“hotel rooftop restaurant”,Hyatt Regency Kathmandu.txt,0
+“hotel rooftop restaurant”,Tiger Tops Tharu Lodge.txt,1
+“hotel rooftop restaurant”,Hotel yak and Yeti.txt,1
+“hotel rooftop restaurant”,Shangri-La Hotel.txt,0
+“hotel rooftop restaurant”,Barahi Jungle Lodge.txt,1
+“hotel rooftop restaurant”,Rupakot Resort Pvt. Ltd..txt,1
+“hotel rooftop restaurant”,Crowne Plaza Hotel Soaltee.txt,0
+“hotel rooftop restaurant”,Hotel Roadhouse.txt,0
+“hotel rooftop restaurant”,Hotel Lake Shore.txt,0
+“hotel rooftop restaurant”,Hotel Grand Holiday.txt,0
+“hotel rooftop restaurant”,Hotel Fewa Dream.txt,1
+“hotel rooftop restaurant”,Hotel Middle Path & Spa.txt,1
+“hotel rooftop restaurant”,Flying Yak Kathmandu.txt,0
+“hotel rooftop restaurant”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“hotel rooftop restaurant”,The Soaltee Kathmandu.txt,0
+“hotel rooftop restaurant”,The Dwarika’s Hotel.txt,1
+“hotel rooftop restaurant”,Sunshine Resort Pokhara.txt,1
+“hotel spa services”,Temple Tree Resort & Spa.txt,0
+“hotel spa services”,The Dwarika's Hotel.txt,1
+“hotel spa services”,Gokarna Forest Resort.txt,1
+“hotel spa services”,Hyatt Regency Kathmandu.txt,1
+“hotel spa services”,Tiger Tops Tharu Lodge.txt,1
+“hotel spa services”,Hotel yak and Yeti.txt,0
+“hotel spa services”,Shangri-La Hotel.txt,0
+“hotel spa services”,Barahi Jungle Lodge.txt,1
+“hotel spa services”,Rupakot Resort Pvt. Ltd..txt,1
+“hotel spa services”,Crowne Plaza Hotel Soaltee.txt,0
+“hotel spa services”,Hotel Roadhouse.txt,1
+“hotel spa services”,Hotel Lake Shore.txt,0
+“hotel spa services”,Hotel Grand Holiday.txt,0
+“hotel spa services”,Hotel Fewa Dream.txt,1
+“hotel spa services”,Hotel Middle Path & Spa.txt,0
+“hotel spa services”,Flying Yak Kathmandu.txt,0
+“hotel spa services”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“hotel spa services”,The Soaltee Kathmandu.txt,1
+“hotel spa services”,The Dwarika’s Hotel.txt,0
+“hotel spa services”,Sunshine Resort Pokhara.txt,1
+“pet-friendly hotel”,Temple Tree Resort & Spa.txt,0
+“pet-friendly hotel”,The Dwarika's Hotel.txt,0
+“pet-friendly hotel”,Gokarna Forest Resort.txt,0
+“pet-friendly hotel”,Hyatt Regency Kathmandu.txt,1
+“pet-friendly hotel”,Tiger Tops Tharu Lodge.txt,0
+“pet-friendly hotel”,Hotel yak and Yeti.txt,1
+“pet-friendly hotel”,Shangri-La Hotel.txt,0
+“pet-friendly hotel”,Barahi Jungle Lodge.txt,1
+“pet-friendly hotel”,Rupakot Resort Pvt. Ltd..txt,0
+“pet-friendly hotel”,Crowne Plaza Hotel Soaltee.txt,0
+“pet-friendly hotel”,Hotel Roadhouse.txt,1
+“pet-friendly hotel”,Hotel Lake Shore.txt,1
+“pet-friendly hotel”,Hotel Grand Holiday.txt,0
+“pet-friendly hotel”,Hotel Fewa Dream.txt,1
+“pet-friendly hotel”,Hotel Middle Path & Spa.txt,1
+“pet-friendly hotel”,Flying Yak Kathmandu.txt,0
+“pet-friendly hotel”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“pet-friendly hotel”,The Soaltee Kathmandu.txt,0
+“pet-friendly hotel”,The Dwarika’s Hotel.txt,0
+“pet-friendly hotel”,Sunshine Resort Pokhara.txt,1
+“hotel near Thamel”,Temple Tree Resort & Spa.txt,1
+“hotel near Thamel”,The Dwarika's Hotel.txt,0
+“hotel near Thamel”,Gokarna Forest Resort.txt,1
+“hotel near Thamel”,Hyatt Regency Kathmandu.txt,0
+“hotel near Thamel”,Tiger Tops Tharu Lodge.txt,0
+“hotel near Thamel”,Hotel yak and Yeti.txt,1
+“hotel near Thamel”,Shangri-La Hotel.txt,1
+“hotel near Thamel”,Barahi Jungle Lodge.txt,0
+“hotel near Thamel”,Rupakot Resort Pvt. Ltd..txt,0
+“hotel near Thamel”,Crowne Plaza Hotel Soaltee.txt,1
+“hotel near Thamel”,Hotel Roadhouse.txt,1
+“hotel near Thamel”,Hotel Lake Shore.txt,1
+“hotel near Thamel”,Hotel Grand Holiday.txt,1
+“hotel near Thamel”,Hotel Fewa Dream.txt,1
+“hotel near Thamel”,Hotel Middle Path & Spa.txt,0
+“hotel near Thamel”,Flying Yak Kathmandu.txt,1
+“hotel near Thamel”,Baber Mahal Vilas – The Heritage Hotel.txt,1
+“hotel near Thamel”,The Soaltee Kathmandu.txt,1
+“hotel near Thamel”,The Dwarika’s Hotel.txt,0
+“hotel near Thamel”,Sunshine Resort Pokhara.txt,1
+“airport shuttle service”,Temple Tree Resort & Spa.txt,0
+“airport shuttle service”,The Dwarika's Hotel.txt,0
+“airport shuttle service”,Gokarna Forest Resort.txt,0
+“airport shuttle service”,Hyatt Regency Kathmandu.txt,0
+“airport shuttle service”,Tiger Tops Tharu Lodge.txt,0
+“airport shuttle service”,Hotel yak and Yeti.txt,0
+“airport shuttle service”,Shangri-La Hotel.txt,0
+“airport shuttle service”,Barahi Jungle Lodge.txt,0
+“airport shuttle service”,Rupakot Resort Pvt. Ltd..txt,0
+“airport shuttle service”,Crowne Plaza Hotel Soaltee.txt,0
+“airport shuttle service”,Hotel Roadhouse.txt,0
+“airport shuttle service”,Hotel Lake Shore.txt,1
+“airport shuttle service”,Hotel Grand Holiday.txt,0
+“airport shuttle service”,Hotel Fewa Dream.txt,1
+“airport shuttle service”,Hotel Middle Path & Spa.txt,0
+“airport shuttle service”,Flying Yak Kathmandu.txt,0
+“airport shuttle service”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“airport shuttle service”,The Soaltee Kathmandu.txt,0
+“airport shuttle service”,The Dwarika’s Hotel.txt,0
+“airport shuttle service”,Sunshine Resort Pokhara.txt,0
+“boutique hotel Pokhara”,Temple Tree Resort & Spa.txt,0
+“boutique hotel Pokhara”,The Dwarika's Hotel.txt,0
+“boutique hotel Pokhara”,Gokarna Forest Resort.txt,0
+“boutique hotel Pokhara”,Hyatt Regency Kathmandu.txt,0
+“boutique hotel Pokhara”,Tiger Tops Tharu Lodge.txt,1
+“boutique hotel Pokhara”,Hotel yak and Yeti.txt,0
+“boutique hotel Pokhara”,Shangri-La Hotel.txt,0
+“boutique hotel Pokhara”,Barahi Jungle Lodge.txt,1
+“boutique hotel Pokhara”,Rupakot Resort Pvt. Ltd..txt,0
+“boutique hotel Pokhara”,Crowne Plaza Hotel Soaltee.txt,1
+“boutique hotel Pokhara”,Hotel Roadhouse.txt,0
+“boutique hotel Pokhara”,Hotel Lake Shore.txt,1
+“boutique hotel Pokhara”,Hotel Grand Holiday.txt,1
+“boutique hotel Pokhara”,Hotel Fewa Dream.txt,1
+“boutique hotel Pokhara”,Hotel Middle Path & Spa.txt,1
+“boutique hotel Pokhara”,Flying Yak Kathmandu.txt,0
+“boutique hotel Pokhara”,Baber Mahal Vilas – The Heritage Hotel.txt,0
+“boutique hotel Pokhara”,The Soaltee Kathmandu.txt,1
+“boutique hotel Pokhara”,The Dwarika’s Hotel.txt,0
+“boutique hotel Pokhara”,Sunshine Resort Pokhara.txt,0
